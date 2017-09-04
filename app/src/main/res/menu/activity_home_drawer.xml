@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/btcb"
+            android:title="BTC" />
+        <item
+            android:id="@+id/ethb"
+            android:title="ETH" />
+        <item
+            android:id="@+id/ltcb"
+            android:title="LTC" />
+        <item
+            android:id="@+id/stmb"
+            android:title="STM" />
+        <item
+            android:id="@+id/dshb"
+            android:title="DSH" />
+    </group>
+</menu>
+
